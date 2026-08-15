@@ -1,18 +1,32 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Siddhi%20Talekar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Fresher%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<!-- ═══════════════════════════════════════════════ -->
 
-<!-- Typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;I+love+learning+new+tech+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
+<!--                  HEADER                         -->
+
+<!-- ═══════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0E1C,50:8B1E3F,100:B23A5B&height=230&section=header&text=Hi%20There,%20I'm%20Siddhi%20Talekar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<!-- Social badges -->
-<a href="https://www.linkedin.com/in/siddhi-talekar-a127303a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:talekarsiddhi01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Typing Animation -->
+
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=B23A5B&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving;Turning+ideas+into+projects+%F0%9F%92%BB" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<!-- Social Badges -->
+
+<a href="https://www.linkedin.com/in/siddhi-talekar-a127303a4">
+<img src="https://img.shields.io/badge/LinkedIn-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:talekarsiddhi01@gmail.com">
+<img src="https://img.shields.io/badge/Email-B23A5B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -22,17 +36,31 @@
 
 ```yaml
 name: Siddhi Talekar
-role: Web Developer (Fresher)
+role: Web Developer | Computer Science Student
 location: Pune, Maharashtra, India
-ask_me_about: HTML, CSS, JavaScript, PHP
-fun_fact: I debug better with coffee ☕
+
+interests:
+  - Web Development
+  - Software Development
+  - Database Management
+  - Problem Solving
+
+currently_learning:
+  - Java
+  - JavaScript
+  - SQL
+  - Data Structures
+  - Web Development
+
+goal: Build useful projects and continuously improve my skills
 ```
 
-- 🌱 I'm a Full Stack Web Development fresher, building real-world projects to sharpen my skills
-- 👯 I'm looking to collaborate on **web development projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, PHP, MySQL**
-- 📫 How to reach me: **talekarsiddhi01@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code**
+* 💻 I'm a **Computer Science student and Web Development fresher**.
+* 🌱 Currently improving my programming and development skills.
+* 🚀 I enjoy building practical projects and experimenting with new technologies.
+* 🧩 Interested in **Web Development, Software Development and Databases**.
+* 🤝 Open to collaborating on interesting development projects.
+* 📚 Always learning, building, and improving.
 
 <br/>
 
@@ -40,52 +68,52 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-8B1E3F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-B23A5B?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-6E172F?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-8B1E3F?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-B23A5B?style=for-the-badge&logo=python&logoColor=white"/>
 
-**Frontend**
+### 🌐 Frontend
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-8B1E3F?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-B23A5B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-6E172F?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-8B1E3F?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-**Backend**
+### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-B23A5B?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-8B1E3F?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-**Database**
+### 🗄️ Database
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-6E172F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-8B1E3F?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-**Tools**
+### 🔧 Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-B23A5B?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-8B1E3F?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddhiTalekar31&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhiTalekar31&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddhiTalekar31&show_icons=true&include_all_commits=true&count_private=true&title_color=B23A5B&icon_color=8B1E3F&text_color=E5E5E5&bg_color=0F0F0F&border_color=4A0E1C"/>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhiTalekar31&layout=compact&title_color=B23A5B&text_color=E5E5E5&bg_color=0F0F0F&border_color=4A0E1C"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhiTalekar31&theme=radical" alt="GitHub Streak"/>
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhiTalekar31&theme=redical" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhiTalekar31&background=0F0F0F&border=4A0E1C&stroke=4A0E1C&ring=B23A5B&fire=8B1E3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B23A5B&sideLabels=B23A5B&dates=9CA3AF" alt="GitHub Streak"/>
 
 </div>
 
@@ -93,18 +121,21 @@ fun_fact: I debug better with coffee ☕
 
 ## 🚀 Featured Projects
 
-<!--
-Add your project repos here, following this pattern:
+<div align="center">
 
-<a href="https://github.com/SiddhiTalekar31/your-repo-name">
-  <img src="https://img.shields.io/badge/your--repo--name-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/SiddhiTalekar31">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-8B1E3F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/SiddhiTalekar31/your-repo-name?style=for-the-badge&color=6a11cb"/>
--->
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-_Add your featured project repos here — let me know the repo names and I'll wire them in._
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhiTalekar31&bg_color=0F0F0F&color=B23A5B&line=8B1E3F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -113,15 +144,23 @@ _Add your featured project repos here — let me know the repo names and I'll wi
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SiddhiTalekar31/SiddhiTalekar31/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/SiddhiTalekar31/SiddhiTalekar31/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
+## 🎯 Currently Learning
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhiTalekar31&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
+
+`Java`   •  
+`JavaScript`   •  
+`SQL`   •  
+`Data Structures`   •  
+`Web Development`
+
 </div>
 
 <br/>
@@ -130,19 +169,26 @@ _Add your featured project repos here — let me know the repo names and I'll wi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/siddhi-talekar-a127303a4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:talekarsiddhi01@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/siddhi-talekar-a127303a4">
+<img src="https://img.shields.io/badge/LinkedIn-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:talekarsiddhi01@gmail.com">
+<img src="https://img.shields.io/badge/Email-B23A5B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
-</div>
 
-<div align="center">
+### ✦ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=SiddhiTalekar31&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B23A5B,50:8B1E3F,100:4A0E1C&height=130&section=footer" width="100%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SiddhiTalekar31&color=8B1E3F&style=flat-square&label=Profile+Views"/>
 
 </div>

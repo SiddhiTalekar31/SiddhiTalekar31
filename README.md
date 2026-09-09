@@ -181,7 +181,31 @@ goal: Build useful projects and continuously improve my skills
 
 <br/>
 
+## 📝 Latest Blog Posts
 <div align="center">
+
+### 📌 My Medium Articles
+<div align="center">
+
+<a href="https://medium.com/@talekarsiddhi01/time-complexity-vs-space-complexity-the-trade-off-every-programmer-should-understand-dc64e504639a">
+<img src="https://img.shields.io/badge/Time%20Complexity%20vs%20Space%20Complexity-8B1E3F?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://medium.com/@talekarsiddhi01/the-floating-point-trap-why-0-1-0-2-is-not-exactly-0-3-in-java-7b452a0de735">
+<img src="https://img.shields.io/badge/The%20Floating--Point%20Trap-B23A5B?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://medium.com/@talekarsiddhi01/oop-in-java-the-concept-that-makes-your-code-think-like-the-real-world-c01d72aeacfe">
+<img src="https://img.shields.io/badge/OOP%20in%20Java-6E172F?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ### ✦ Thanks for visiting my profile!
 
